@@ -1,39 +1,43 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9c5b9fc6a005e28a0b38a1a0d4f06dbd",
+    "revision": "4b0d8d75477bc31c6f650a17fc3a554f",
     "url": "/index.html"
   },
   {
-    "revision": "175efdafb18568ccff1c",
+    "revision": "136fd5367f9dbed7426c",
+    "url": "/static/css/2.6414bb7b.chunk.css"
+  },
+  {
+    "revision": "c49fea9cc1ebbeba090c",
     "url": "/static/css/3.3a26ebde.chunk.css"
   },
   {
-    "revision": "a109c3ab1bdb8d258c5d",
+    "revision": "bb582c9c90430b649788",
     "url": "/static/css/4.ee2a0142.chunk.css"
   },
   {
-    "revision": "4cb1ed96006827dbd985",
-    "url": "/static/css/main.97d9abb3.chunk.css"
+    "revision": "6f843ddcab0cc14b357e",
+    "url": "/static/css/main.4ee1be37.chunk.css"
   },
   {
-    "revision": "435638c09434384482d7",
-    "url": "/static/js/2.2cad27b2.chunk.js"
+    "revision": "136fd5367f9dbed7426c",
+    "url": "/static/js/2.69d10ee1.chunk.js"
   },
   {
-    "revision": "175efdafb18568ccff1c",
-    "url": "/static/js/3.60e8e558.chunk.js"
+    "revision": "c49fea9cc1ebbeba090c",
+    "url": "/static/js/3.879e49b7.chunk.js"
   },
   {
-    "revision": "a109c3ab1bdb8d258c5d",
-    "url": "/static/js/4.79ce9bfa.chunk.js"
+    "revision": "bb582c9c90430b649788",
+    "url": "/static/js/4.703844c4.chunk.js"
   },
   {
-    "revision": "4cb1ed96006827dbd985",
-    "url": "/static/js/main.5b32cbe8.chunk.js"
+    "revision": "6f843ddcab0cc14b357e",
+    "url": "/static/js/main.a258e250.chunk.js"
   },
   {
-    "revision": "0a202de269f1995c2def",
-    "url": "/static/js/runtime-main.4033ce2f.js"
+    "revision": "2c70124972ef3d2b87f9",
+    "url": "/static/js/runtime-main.edeb756c.js"
   },
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
@@ -42,6 +46,34 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "ee6539921d713482b8ccd4d0d23961bb",
     "url": "/static/media/Montserrat-Regular.ee653992.ttf"
+  },
+  {
+    "revision": "e3df670263148e715bc5f4a895212a62",
+    "url": "/static/media/adelfox1.e3df6702.png"
+  },
+  {
+    "revision": "1058d88cf92243f0fbf9c6f64ef5af6b",
+    "url": "/static/media/adelfox2.1058d88c.png"
+  },
+  {
+    "revision": "8e63b48a689bba980f5ee2626d9d8817",
+    "url": "/static/media/adelfox3.8e63b48a.png"
+  },
+  {
+    "revision": "3f2427b30a6077be092ce740fbb6aded",
+    "url": "/static/media/adelfox4.3f2427b3.png"
+  },
+  {
+    "revision": "4bf5b30ea69094cfa26ebc36c35dd962",
+    "url": "/static/media/adelfox5.4bf5b30e.png"
+  },
+  {
+    "revision": "ad14644525f0ba7b61309fbc9148143b",
+    "url": "/static/media/adelfox6.ad146445.png"
+  },
+  {
+    "revision": "ea200730a0de13be5f05bd5e80ad2a77",
+    "url": "/static/media/adelfox7.ea200730.png"
   },
   {
     "revision": "985b99c8226e8edf3b4351fbc04caf4e",
@@ -96,12 +128,24 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/lightroom.1821dcdf.png"
   },
   {
-    "revision": "25bf045ca257e971124f3997d89f321c",
-    "url": "/static/media/logo.25bf045c.svg"
-  },
-  {
     "revision": "52be31441c8cf8a8a16bd7a228d428bf",
     "url": "/static/media/manOnTable.52be3144.svg"
+  },
+  {
+    "revision": "81bd59354ed520dbc5aed7721ce4c116",
+    "url": "/static/media/music.81bd5935.jpg"
+  },
+  {
+    "revision": "b676220d6f741a2dfa889f331ece00e6",
+    "url": "/static/media/music1.b676220d.jpg"
+  },
+  {
+    "revision": "5bcd7e738c0106aa1749b74870677f33",
+    "url": "/static/media/music2.5bcd7e73.jpg"
+  },
+  {
+    "revision": "d3a01408bb138c213e959dc092e6804d",
+    "url": "/static/media/music3.d3a01408.jpg"
   },
   {
     "revision": "829ad0a1deef4d7295adfecdf12df2be",
@@ -142,6 +186,38 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "3440939881da8339d1597e8d77cdf850",
     "url": "/static/media/skill.34409398.svg"
+  },
+  {
+    "revision": "113a9d4a7ddf351fc459150bba8ecd05",
+    "url": "/static/media/spitz.4.113a9d4a.jpg"
+  },
+  {
+    "revision": "70ef5c50a56b8419144910a00be3b179",
+    "url": "/static/media/spitz.5.70ef5c50.jpg"
+  },
+  {
+    "revision": "2e4ab41c300650406f256df8ea9e5214",
+    "url": "/static/media/spitz.6.2e4ab41c.jpg"
+  },
+  {
+    "revision": "562492b012e031a8c60f282bcde5de82",
+    "url": "/static/media/spitz.7.562492b0.jpg"
+  },
+  {
+    "revision": "96bce2df6187df6e640858d05c67ebdf",
+    "url": "/static/media/spitz.96bce2df.jpg"
+  },
+  {
+    "revision": "03f17943c21a8f6a0b206bed03acaf1f",
+    "url": "/static/media/spitz1.03f17943.jpg"
+  },
+  {
+    "revision": "4018b61b6d9a467dcef34c7f409170c4",
+    "url": "/static/media/spitz2.4018b61b.jpg"
+  },
+  {
+    "revision": "24f9b56e5266562b7b1781c46d760d6f",
+    "url": "/static/media/spitz3.24f9b56e.jpg"
   },
   {
     "revision": "39eff4a91b01e00a32cb78f3797eec88",
