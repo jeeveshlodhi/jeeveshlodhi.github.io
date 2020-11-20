@@ -1,43 +1,43 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5656afb122cae0e4cd2411dc833e7652",
+    "revision": "58d7682ea8f15828bde4a8cf5751fcc3",
     "url": "/index.html"
   },
   {
-    "revision": "caec4211901c218d972c",
+    "revision": "a93afd09c3743e7f52d6",
     "url": "/static/css/2.6414bb7b.chunk.css"
   },
   {
-    "revision": "fe88feb79a5d10b98f81",
+    "revision": "e7fac7ddfa914c40f172",
     "url": "/static/css/3.3a26ebde.chunk.css"
   },
   {
-    "revision": "17c230667dd737eaa7b8",
+    "revision": "894e9a4e993165e62c1e",
     "url": "/static/css/4.ee2a0142.chunk.css"
   },
   {
-    "revision": "10ce636297c12b6cfa7a",
+    "revision": "60c6172cdd9867dc7e74",
     "url": "/static/css/main.4ee1be37.chunk.css"
   },
   {
-    "revision": "caec4211901c218d972c",
-    "url": "/static/js/2.db9fd878.chunk.js"
+    "revision": "a93afd09c3743e7f52d6",
+    "url": "/static/js/2.55056c8f.chunk.js"
   },
   {
-    "revision": "fe88feb79a5d10b98f81",
-    "url": "/static/js/3.bc618517.chunk.js"
+    "revision": "e7fac7ddfa914c40f172",
+    "url": "/static/js/3.590d95bb.chunk.js"
   },
   {
-    "revision": "17c230667dd737eaa7b8",
-    "url": "/static/js/4.6b834d96.chunk.js"
+    "revision": "894e9a4e993165e62c1e",
+    "url": "/static/js/4.7e18b94c.chunk.js"
   },
   {
-    "revision": "10ce636297c12b6cfa7a",
-    "url": "/static/js/main.cf334d47.chunk.js"
+    "revision": "60c6172cdd9867dc7e74",
+    "url": "/static/js/main.79387f4e.chunk.js"
   },
   {
-    "revision": "75aad2b6d53592121b2d",
-    "url": "/static/js/runtime-main.0a940999.js"
+    "revision": "bf8888527b732b70bc59",
+    "url": "/static/js/runtime-main.3cf4a6ac.js"
   },
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
@@ -226,10 +226,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "7f0feeedda08cf7d68593454bc2e82b5",
     "url": "/static/media/talksCardBackAlt.7f0feeed.svg"
-  },
-  {
-    "revision": "b7657f33170adc85edeaf92a32f80cdb",
-    "url": "/static/media/weredoo.b7657f33.jpg"
   },
   {
     "revision": "9fcd2d3569edfde63fffc2fbdc9fc695",
