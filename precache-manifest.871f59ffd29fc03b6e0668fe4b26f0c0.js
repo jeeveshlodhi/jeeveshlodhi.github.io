@@ -1,43 +1,43 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7f620e5ab9f5354608f44e9c8c015668",
+    "revision": "5656afb122cae0e4cd2411dc833e7652",
     "url": "/index.html"
   },
   {
-    "revision": "136fd5367f9dbed7426c",
+    "revision": "caec4211901c218d972c",
     "url": "/static/css/2.6414bb7b.chunk.css"
   },
   {
-    "revision": "c49fea9cc1ebbeba090c",
+    "revision": "fe88feb79a5d10b98f81",
     "url": "/static/css/3.3a26ebde.chunk.css"
   },
   {
-    "revision": "bb582c9c90430b649788",
+    "revision": "17c230667dd737eaa7b8",
     "url": "/static/css/4.ee2a0142.chunk.css"
   },
   {
-    "revision": "2cc5fb9c42f84dfa81d6",
+    "revision": "10ce636297c12b6cfa7a",
     "url": "/static/css/main.4ee1be37.chunk.css"
   },
   {
-    "revision": "136fd5367f9dbed7426c",
-    "url": "/static/js/2.69d10ee1.chunk.js"
+    "revision": "caec4211901c218d972c",
+    "url": "/static/js/2.db9fd878.chunk.js"
   },
   {
-    "revision": "c49fea9cc1ebbeba090c",
-    "url": "/static/js/3.879e49b7.chunk.js"
+    "revision": "fe88feb79a5d10b98f81",
+    "url": "/static/js/3.bc618517.chunk.js"
   },
   {
-    "revision": "bb582c9c90430b649788",
-    "url": "/static/js/4.703844c4.chunk.js"
+    "revision": "17c230667dd737eaa7b8",
+    "url": "/static/js/4.6b834d96.chunk.js"
   },
   {
-    "revision": "2cc5fb9c42f84dfa81d6",
-    "url": "/static/js/main.4610c3bf.chunk.js"
+    "revision": "10ce636297c12b6cfa7a",
+    "url": "/static/js/main.cf334d47.chunk.js"
   },
   {
-    "revision": "2c70124972ef3d2b87f9",
-    "url": "/static/js/runtime-main.edeb756c.js"
+    "revision": "75aad2b6d53592121b2d",
+    "url": "/static/js/runtime-main.0a940999.js"
   },
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
@@ -226,6 +226,34 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "7f0feeedda08cf7d68593454bc2e82b5",
     "url": "/static/media/talksCardBackAlt.7f0feeed.svg"
+  },
+  {
+    "revision": "b7657f33170adc85edeaf92a32f80cdb",
+    "url": "/static/media/weredoo.b7657f33.jpg"
+  },
+  {
+    "revision": "9fcd2d3569edfde63fffc2fbdc9fc695",
+    "url": "/static/media/weredoo1.9fcd2d35.PNG"
+  },
+  {
+    "revision": "a7bd9aa7bf185c1f1779c449a5b3c9ce",
+    "url": "/static/media/weredoo2.a7bd9aa7.PNG"
+  },
+  {
+    "revision": "a180032be1357cf2241d4ca6ad4cf461",
+    "url": "/static/media/weredoo3.a180032b.PNG"
+  },
+  {
+    "revision": "4900637cdefc1b7418e6596d4f498c1b",
+    "url": "/static/media/weredoo4.4900637c.PNG"
+  },
+  {
+    "revision": "9ce2c4a8a8162cb01b7b919ddea23d33",
+    "url": "/static/media/weredoo5.9ce2c4a8.PNG"
+  },
+  {
+    "revision": "5e9ccd1a747bf4d60e3197d5a9e2a78a",
+    "url": "/static/media/weredoo7.5e9ccd1a.png"
   },
   {
     "revision": "3338afff05f1510f94c47fec823f3eb9",
